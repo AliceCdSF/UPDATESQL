@@ -5,6 +5,7 @@ SET cidade = 'Nova Odessa';
 
 
 _____________ÚLTIMAS ATIVIDADES______ 
+
 ___ESTADO/CIDADE___
 UPDATE alunos
 SET estado = 'SP'
